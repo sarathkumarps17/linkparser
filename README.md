@@ -13,13 +13,13 @@ This Go package provides a simple utility for parsing HTML anchor (`<a>`) tags a
 Install the package using `go get`:
 
 ```bash
-go get github.com/sarathkumar17/linkparser
+go get github.com/sarathkumarps17/linkparser
 ```
 
 Then import it into your project:
 
 ```go
-import "github.com/sarathkumar17/linkparser"
+import "github.com/sarathkumarps17/linkparser"
 ```
 
 ## Usage

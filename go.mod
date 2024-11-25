@@ -1,4 +1,4 @@
-module github.com/sarathkumar17/linkparser
+module github.com/sarathkumarps17/linkparser
 
 go 1.23.1
 
