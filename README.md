@@ -19,7 +19,7 @@ go get github.com/sarathkumarps17/linkparser
 Then import it into your project:
 
 ```go
-import "github.com/sarathkumarps17/linkparser"
+import "github.com/sarathkumarps17/linkparser/parser"
 ```
 
 ## Usage

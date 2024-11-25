@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	linkparser "github.com/sarathkumar17/linkparser/cmd"
+	linkparser "github.com/sarathkumarps17/linkparser/parser"
 )
 
 func main() {
